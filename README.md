@@ -2,7 +2,7 @@
 
 This repository is an unofficial template for reproducing issues with the rolldown.
 
-- [ ] If you are using Nightly Rolldown, please click here to show that the rolldown should be loaded with the file.
+- [x] If you are using Nightly Rolldown, please click here to show that the rolldown should be loaded with the file.
 
 ## Steps to reproduce
 
