@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist # Need to show the compile result
 
 # Gatsby files
 .cache/

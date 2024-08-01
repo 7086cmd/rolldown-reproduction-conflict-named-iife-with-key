@@ -1,3 +1,1 @@
-import { show } from "./example.js"
-
-show()
+export const exports = 1;

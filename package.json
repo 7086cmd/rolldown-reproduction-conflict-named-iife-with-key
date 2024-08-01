@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rolldown": "^0.12.2"
+    "rolldown": "file:../../rolldown/packages/rolldown"
   }
 }
